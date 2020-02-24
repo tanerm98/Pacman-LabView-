@@ -1,0 +1,7 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  StdAfx.cpp
+cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  EasyDLL.cpp
+EasyDLL.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library .\Debug\EasyDLL.lib and object .\Debug\EasyDLL.exp
+  EasyDLL.vcxproj -> E:\AD\Proiect\AD14\.\Debug\EasyDLL.dll
